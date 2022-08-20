@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+}
+body{
+}
+h1{
+	text-align: center;
+}
+div{
+	background-color:grey;
+	height: 200px;
+	padding-top: 0 px;
+	text-align: center;
+	border: 2px solid black;
+	float: left;
+}
+p.name{
+	background-color: hotpink;
+	hight: 20 px;
+	width: 80px;
+	text-align: center;
+	border: 2px solid black;
+}
+@media (min-width: 992 px)
+{
+	.items{
+		width: 33.3%; 
+	}
+}
