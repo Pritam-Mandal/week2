@@ -1,10 +1,9 @@
 *{
 	box-sizing: border-box;
-	
 	font-family: Tahoma, Verdana, sans-serif;
 }
 
-h1{
+h1{font-family: 'DynaPuff', cursive;
 	text-align: center;
 }
 
